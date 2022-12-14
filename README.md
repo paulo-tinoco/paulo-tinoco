@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning [Rust](https://github.com/topics/rust), [Jest](https://github.com/facebook/jest) and [Terraform](https://github.com/topics/terraform)
 
 
-[![Paulo Tinoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-tinoco&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Paulo Tinoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-tinoco&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-tinoco&theme=tokyonight&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-tinoco&count_private=true&theme=tokyonight&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Skill
 <div align="left">
