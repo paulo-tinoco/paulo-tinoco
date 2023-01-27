@@ -1,6 +1,6 @@
 ### Hi I'm Paulo Tinoco
 
-- 🔭 I’m currently working on [Co.Aktion](https://github.com/Coaktion)
+- 🔭 I’m currently working on [Coaktion](https://github.com/Coaktion)
 - 🌱 I’m currently learning [Rust](https://github.com/topics/rust), [Jest](https://github.com/facebook/jest) and [Terraform](https://github.com/topics/terraform)
 
 
