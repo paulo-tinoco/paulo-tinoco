@@ -1,6 +1,6 @@
 ### Hi I'm Paulo Tinoco
 
-- 🔭 I’m currently working on [Deepdive](https://github.com/deepdive-ai)
+- 🔭 I’m currently working on [Seedz](https://github.com/seedz-ag)
 - 🌱 I’m currently learning [Rust](https://github.com/topics/rust)
 
 ## Open source projects that I author
